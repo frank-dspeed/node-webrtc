@@ -11,6 +11,7 @@ Install
 -------
 
 ```
+npm i -g node-pre-gyp
 npm install wrtc
 ```
 
